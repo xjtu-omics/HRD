@@ -9,15 +9,13 @@ change to TAI
 
 ·R version: 3.5.O and above
 
-·latest version of Sequenza R package must be installed from Bitbucket https://bitbucket.org/sequenza_tools/sequenza
-
-or the sequenza package can be installed by:
+# latest version of Sequenza R package must be installed from Bitbucket https://bitbucket.org/sequenza_tools/sequenza  or the sequenza package can be installed by:
 
 ·setRepositories(graphics = FALSE, ind = 1:6)
 
 ·install.packages("sequenza")
 
-·The R packages required are as folllows:
+# The R packages required are as folllows:
 
      data.table
      usethis
