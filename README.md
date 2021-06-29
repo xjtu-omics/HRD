@@ -2,8 +2,7 @@
 change to TAI
 # HRD
 change to TAI
-
-#Requirements
+# Requirements
 ·software：R
 ·Operating system:Linux, OS X,Windows
 ·R version: 3.5.O and above
@@ -16,7 +15,7 @@ or the sequenza package can be installed by:
      usethis
      devtools
      
-#Getting started
+# Getting started
  ·library(usethis)
  ·library(devtools)
  ·library(data.table)
